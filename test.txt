@@ -5,3 +5,4 @@ Git is free software under the GPL.456456789
 你好吗？。。。。。。好困啊
 加油，加油，加油
 加油，加油，加油
+Creating a new branch is quick & simple.
